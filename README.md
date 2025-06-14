@@ -10,13 +10,13 @@ This is a simple web application that converts written text into spoken words us
 * Responsive and modern UI design
 
 ## Technologies Used
-* HTML5 – Page structure
+- **HTML5** – Page structure
 
-* CSS3 – Styling and layout
+- **CSS3** – Styling and layout
 
-* JavaScript – Speech functionality using SpeechSynthesis API
+- **JavaScript** – Speech functionality using SpeechSynthesis API
 
-* Google Fonts – Custom font (Poppins) for a clean look
+- **Google Fonts** – Custom font (Poppins) for a clean look
 
 ## Getting Started
 - To run this project locally:
@@ -45,4 +45,5 @@ project-folder/
 ## Contact
 For any queries or feedback:
 
-GitHub: [praveenarachakonda2209] (https://github.com/praveenarachakonda2209)
+**GitHub**: [praveenarachakonda2209](https://github.com/praveenarachakonda2209)
+
