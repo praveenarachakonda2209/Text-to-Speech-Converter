@@ -1,6 +1,6 @@
 # Text-to-Speech-Converter
 This is a simple web application that converts written text into spoken words using the Web Speech API. Users can enter any text, select a voice, and play, pause, or resume the speech.
-# Features
+## Features
 * Convert text to human-like speech
 
 * Choose from available system voices
@@ -9,30 +9,31 @@ This is a simple web application that converts written text into spoken words us
 
 * Responsive and modern UI design
 
-# Technologies Used
-HTML5 – Page structure
+## Technologies Used
+* HTML5 – Page structure
 
-CSS3 – Styling and layout
+* CSS3 – Styling and layout
 
-JavaScript (Vanilla) – Speech functionality using SpeechSynthesis API
+* JavaScript – Speech functionality using SpeechSynthesis API
 
-Google Fonts – Custom font (Poppins) for a clean look
+* Google Fonts – Custom font (Poppins) for a clean look
 
-# Getting Started
+## Getting Started
 - To run this project locally:
 
-   -Clone or download the repository
+   - Clone or download the repository
 
-   -Open index.html in any modern browser (Chrome, Edge, etc.)
+   - Open index.html in any modern browser (Chrome, Edge, etc.)
 
 File Structure:
-```project-folder/
+```
+project-folder/
 ├── index.html
 ├── style.css
 └── script.js
 ```
 
- # How It Works
+## How It Works
 * User types text into the textarea
 
 * Selects a voice from the dropdown
@@ -41,7 +42,7 @@ File Structure:
 
 * Button toggles between Pause and Resume if the speech is long
 
-# Contact
+## Contact
 For any queries or feedback:
 
-GitHub: [@praveenarachakonda2209] (https://github.com/praveenarachakonda2209)
+GitHub: [praveenarachakonda2209] (https://github.com/praveenarachakonda2209)
